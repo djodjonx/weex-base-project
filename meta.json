@@ -19,6 +19,7 @@
         },
         "author": {
             "type": "string",
+            "required": true,
             "label": "Author"
         }
     },
