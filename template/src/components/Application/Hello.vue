@@ -1,7 +1,7 @@
 <template>
     <div>
-        <div class="pre">
-            <text class="new">Hello To You</text>
+        <div class="title-container">
+            <text class="title">Hello To You</text>
         </div>
         <div>
             <text>What's your name?</text>
@@ -39,11 +39,11 @@ export default {
 }
 </script>
 <style>
-    .pre {
+    .title-container {
         margin-bottom: 150px;
 
     }
-    .new {
+    .title {
         text-align: center;
     }
     .input {
