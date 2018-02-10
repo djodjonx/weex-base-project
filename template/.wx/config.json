@@ -1,21 +1,21 @@
 {
   "android": {
-    "AppName": "WeexApp",
-    "AppId": "com.alibaba.weex",
+    "AppName": "{{ name }}",
+    "AppId": "{{ appId }}",
     "SplashText": "Hello\nWeex",
     "WeexBundle": "index.js"
   },
   "ios": {
-    "AppId": "com.alibaba.weex",
-    "AppName": "WeexApp",
+    "AppId": "{{ appId }}",
+    "AppName": "{{ name }}",
     "Version": "1.0.0",
     "BuildVersion": "1.0.0",
     "WeexBundle": "index.js",
     "CodeSign": "",
     "Profile": ""
   },
-  "name": "test-app",
-  "description": "A weex project",
+  "name": "{{ name }}",
+  "description": "{{description}}",
   "version": "1.0.0",
   "author": "Jonathan Moutier <djo.moutier@gmail.com>",
   "unit": true,
