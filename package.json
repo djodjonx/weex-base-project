@@ -1,0 +1,13 @@
+{
+    "name": "weex-base-project",
+    "version": "0.1.0",
+    "description": "A full-featured weex-cli base project setup with Vuex and Vue-router included",
+    "keywords": [
+        "weex",
+        "template",
+        "vue-router",
+        "vuex"
+    ],
+    "author": "Djodjonx <djo.moutier@gmail.com>",
+    "license": "MIT"
+}
