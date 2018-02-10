@@ -11,14 +11,19 @@
 
 A full-featured weex-cli base project setup with Vuex and Vue-router included.
 
-No more configuration required, just install it and code.
+No more configuration required, just install and code your app.
+
+
+## Required
+
+* Vue-cli
 
 ## Usage
 
 ```bash
-# Install weex-toolkit.
-npm install weex-toolkit -g
+# Install vue-cli.
+npm install vue-cli -g
 
-# Start a Weex Project.
+# init Weex Project.
 vue init djodjonx/weex-base-project <project-name>
 ```
